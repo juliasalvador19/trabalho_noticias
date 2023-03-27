@@ -1,2 +1,1 @@
-# trabalho_noticias
-Trabalho em PHP orientado a objetos - Cadastro de Notícias
+# Trabalho de Desenvolvimento Web II para cadastro de notícias utilizando PHP orientado a objetos - Julia Salvador
