@@ -21,6 +21,9 @@
             $title = new Title('Trabalho - Desenvolvimento Web II');
             $head->addElemento($title);
 
+            $link = new Link ('./css/style.css', 'stylesheet');
+            $head->addElemento($link);
+            
             $body = new Body();
             $html->addElemento($body);
 

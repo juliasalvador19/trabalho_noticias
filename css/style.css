@@ -1,0 +1,8 @@
+body {
+    background-color: #4682B4;
+    color: rgb(255, 255, 255);
+}
+
+input, textarea{ 
+    border: 1px black solid;
+}
